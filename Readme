@@ -1,3 +1,8 @@
+cd../retroceder carpeta
+cd / entrar a la carpeta
+ls / verificamos el contenido de la carpeta
+pwd / verificar ruta completa
+
 git status -> verifica los cambios en mi repo local
 git add . -> Agregar los cambios temporales
 git commit -m "comment" -> Confirma los cambios guardados
