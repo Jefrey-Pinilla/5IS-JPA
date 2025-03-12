@@ -1,0 +1,4 @@
+git status -> verifica los cambios en mi repo local
+git add . -> Agregar los cambios temporales
+git commit -m "comment" -> Confirma los cambios guardados
+git push -> Publica los cambios al repositorio
